@@ -1,0 +1,4 @@
+ - 
+Cabin 1 passenger 1 details :  First name:- ww Last name:- ee Expenses:- 1500.0 - 
+Cabin 1 passenger 2 details :  First name:- ee Last name:- rr Expenses:- 5500.0 - 
+Cabin 1 passenger 3 details :  First name:- ww Last name:- ee Expenses:- 1500.0

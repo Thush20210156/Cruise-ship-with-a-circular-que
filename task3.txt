@@ -1,0 +1,13 @@
+ - 
+Cabin 1 passenger 1 details :  First name:- ee Last name:- rr Expenses:- 120.0 - 
+Cabin 1 passenger 2 details :  First name:- ee Last name:- rr Expenses:- 120.0 - 
+Cabin 1 passenger 3 details :  First name:- ee Last name:- rr Expenses:- 120.0 - 
+Cabin 2 passenger 1 details :  First name:- rr Last name:- ee Expenses:- 22.0 - 
+Cabin 2 passenger 2 details :  First name:- rr Last name:- ee Expenses:- 22.0 - 
+Cabin 2 passenger 3 details :  First name:- rr Last name:- ee Expenses:- 22.0 - 
+Cabin 3 passenger 1 details :  First name:- gg Last name:- hh Expenses:- 45.0 - 
+Cabin 3 passenger 2 details :  First name:- gg Last name:- hh Expenses:- 45.0 - 
+Cabin 3 passenger 3 details :  First name:- gg Last name:- hh Expenses:- 45.0 - 
+Cabin 5 passenger 1 details :  First name:- ww Last name:- ee Expenses:- 1500.0 - 
+Cabin 5 passenger 2 details :  First name:- ww Last name:- ee Expenses:- 1500.0 - 
+Cabin 5 passenger 3 details :  First name:- ww Last name:- ee Expenses:- 1500.0
